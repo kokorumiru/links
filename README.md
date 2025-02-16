@@ -1,2 +1,3 @@
 # links
-- [galxe.com](https://www.galxe.com/)
+- [Galxe.com](https://www.galxe.com/)
+- [Layer3.xyz](https://app.layer3.xyz/)
